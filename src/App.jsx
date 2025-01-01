@@ -1,8 +1,8 @@
 import "./App.css";
-import MouazbaForm from "./components/MouazbaForm/MouazbaForm";
+import MouazbaTable from "./components/MouazbaForm/MouazbaTable";
 
 function App() {
-  return <MouazbaForm />;
+  return <MouazbaTable />;
 }
 
 export default App;
